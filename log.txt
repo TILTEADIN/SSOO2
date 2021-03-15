@@ -1,0 +1,7 @@
+22:59:15 ----> 
+INITIALIZING LOG
+____________________
+
+22:59:15 ----> Process A has succesfully finished its execution
+22:59:17 ----> Manager process manually interrupted by a SIGINT
+
